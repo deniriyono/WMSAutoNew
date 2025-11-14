@@ -1,0 +1,5 @@
+{
+  "name": "WMSAuto - Workshop Management System",
+  "description": "A comprehensive Workshop Management System for car body repair and repaint businesses, built with React and Tailwind CSS. This system helps manage customers, vehicles, estimations, work orders, and more.",
+  "requestFramePermissions": []
+}
